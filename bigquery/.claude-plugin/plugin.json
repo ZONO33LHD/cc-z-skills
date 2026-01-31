@@ -1,0 +1,7 @@
+{
+  "name": "bigquery",
+  "description": "BigQuery skill for SQL query assistance, optimization, and best practices guidance",
+  "author": {
+    "name": "shunsuke"
+  }
+}
